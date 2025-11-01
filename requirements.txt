@@ -1,6 +1,6 @@
-sentiment-nlp/
-│── svm_model.pkl
-│── tfidf_vectorizer.pkl
-│── app.py              # streamlit file / flask file
-│── requirements.txt
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
 
